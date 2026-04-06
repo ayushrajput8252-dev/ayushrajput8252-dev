@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayush Singh
+# Hi👋, I'm Ayush Singh
 
 ### AI/ML Engineer | GenAI | RAG | AI Agents
 
